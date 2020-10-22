@@ -1,0 +1,11 @@
+{
+  "name": "obj-connector",
+  "version": "0.0.1",
+  "description": "Object connector for their extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dubolom <dubolom7349@mail.ru>",
+  "license": "MIT"
+}
