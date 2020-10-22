@@ -1,6 +1,15 @@
 # Object Connector
 
-Object Connector is a package for advanced joining (or merging) objects.
+Object Connector is a package utility for advanced joining (or merging) objects.
+
+## Installation
+Npm
+`npm install obj-connector`
+
+NodeJS Require:
+```javascript 
+const ObjConnector = require('obj-connector');
+```
 
 ## Easy Example
 We have base configuration template and new config, which needs base template:
