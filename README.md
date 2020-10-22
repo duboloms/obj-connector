@@ -3,8 +3,10 @@
 Object Connector is a package utility for advanced joining (or merging) objects.
 
 ## Installation
-Npm
-`npm install obj-connector`
+Npm:
+```
+npm install obj-connector
+```
 
 NodeJS Require:
 ```javascript 
